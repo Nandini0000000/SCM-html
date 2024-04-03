@@ -1,1 +1,2 @@
 # SCM-html
+HTML, or Hypertext Markup Language, is the standard language for creating and structuring web pages and web applications. It utilizes tags to define the structure and content of a webpage, including text, images, links, and multimedia elements. HTML documents are interpreted by web browsers to display the content and layout as intended by the creator. It forms the backbone of the World Wide Web, providing a foundational framework for designing and organizing digital content on the internet.
